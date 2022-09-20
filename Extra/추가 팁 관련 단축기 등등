@@ -1,0 +1,44 @@
+개발자는 오래된=안정된 버전
+새로운거 받고 하면 에러 엄청 많이 나옴....
+
+
+새로운 거 깔때 터미널 : pip install ()
+무언가를 불러올때 : import 사용
+파일 생성시 : new- python file로 생성
+실행 단축기 : 컨트롤 쉬프트 f10
+   주석달기 : 컨트롤 슬래쉬(/)
+
+
+
+python console-- 대화형
+(50-5*6)/4  실수 연산 나누기 /
+5.0
+(50-5*6)//4 정수 연산 나누기 //
+5
+나누고 나머지 표현하기 a%b a를 b로 나누고 나머지를 표현
+
+:= 파이썬 3.8 이상에서만 사용가능
+lambda  인라인 함수 , 그줄에서만 쓰고 버리는 함수
+
+
+# project : TestProject
+# pacakage : test.buy
+# Main-class : TestBuy
+Eclipse project 생성시 중요한점
+1. 삭제시 체크해주기 (같은이름 다시 생성을 위함)
+2. new - java - javaproject (open perspective) 선택
+3. pacakage 생성
+4. class 생성 ( public static main 선택시 앱 선택x --> 라이브러리(서브역할)
+java 에서 class는 대문자 형식-- 낙타 표기방법
+5. 내보내기/ 가져오기 export/import: General/2번쨰 선택 finish 하면 된다 무조건 general 파일의 두번쨰
+6. syso 컨트롤 스페이스바=> 시스템 마무리 짓는 방법
+    f3 해당하는 class 부분으로 이동??
+
+
+ANACONDA
+1. 다운로드시 조금 지난버전 항상 PATH 설정 체크하고 깔기
+2. 환경변수 체크
+3. Pycharm settings 에서 interpreter 설정 show all 다음 + 다음 anaconda적용
+4. 생성이 안될경우--> 사용자 폴더 이름 변겅 (인터넷 통해서)
+5. 그후 Run 메뉴 edit configurations 에서 python interpreter 변경
+6. anaconda 적용 완료
